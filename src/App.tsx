@@ -1,8 +1,6 @@
-import React from 'react';
 import MapComponent from './MapComponent';
 
 function App() {
-
   return (
     <>
       <MapComponent />
@@ -10,4 +8,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
